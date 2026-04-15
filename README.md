@@ -46,33 +46,32 @@ git clone https://github.com/juliavvz/TP02.git
 
 4. Execute o arquivo `QuestaoXX.java` correspondente
 
-## 📁 Estrutura do Projeto
-TP02/
-├── src/
-│ ├── questao01/
-│ │ └── Questao01.java
-│ ├── questao02/
-│ │ └── Questao02.java
-│ ├── questao03/
-│ │ └── Questao03.java
-│ ├── questao04/
-│ │ └── Questao04.java
-│ ├── questao05/
-│ │ └── Questao05.java
-│ ├── questao06/
-│ │ └── Questao06.java
-│ ├── questao07/
-│ │ └── Questao07.java
-│ ├── questao08/
-│ │ └── Questao08.java
-│ ├── questao09/
-│ │ └── Questao09.java
-│ ├── questao10/
-│ │ └── Questao10.java
-│ └── questao11/
-│ └── Questao11.java
-├── .gitignore
-└── README.md
+📁 TP02/
+    📁 src/
+        📁 questao01/
+            📄 Questao01.java
+        📁 questao02/
+            📄 Questao02.java
+        📁 questao03/
+            📄 Questao03.java
+        📁 questao04/
+            📄 Questao04.java
+        📁 questao05/
+            📄 Questao05.java
+        📁 questao06/
+            📄 Questao06.java
+        📁 questao07/
+            📄 Questao07.java
+        📁 questao08/
+            📄 Questao08.java
+        📁 questao09/
+            📄 Questao09.java
+        📁 questao10/
+            📄 Questao10.java
+        📁 questao11/
+            📄 Questao11.java
+    📄 .gitignore
+    📄 README.md
 
 ## 📄 Base do Trabalho
 

@@ -67,11 +67,13 @@ Ou use o atalho Ctrl+F5 (Windows/Linux) / Cmd+F5 (Mac)
 Os programas usam o terminal integrado do VS Code para entrada e saída de dados
 ````
 
-👥 Desenvolvimento
+## 👥 Desenvolvimento
 
 Júlia Vitória - (https://github.com/juliavvz)
+
 Lucas Antônio - (https://github.com/rapaduragames)
 
 
-📝 Licença
+## 📝 Licença
+
 Projeto acadêmico - livre para estudo e modificação.

@@ -1,52 +1,79 @@
 # TP02 - Estruturas de Repetição, Arrays e Matrizes em Java
 
-## 📋 Descrição
+## 📋 Sobre o Projeto
 
-Este projeto contém a implementação de 11 exercícios em Java, desenvolvidos como parte do Trabalho Prático 02 (TP02). Os exercícios abordam conceitos fundamentais de programação, incluindo estruturas de repetição, validação de entradas, vetores e matrizes.
+Este é o Trabalho Prático 02 (TP02) da disciplina **CBTLPR1 - Conceitos e Técnicas de Programação**, do curso **ADS 371** no **IFSP Campus Cubatão**.
 
-## 📚 Exercícios Implementados
+O objetivo é implementar 11 exercícios em Java que consolidam os conceitos de:
+- Estruturas de repetição e validação de entrada
+- Manipulação de vetores (arrays unidimensionais)
+- Manipulação de matrizes (arrays multidimensionais)
+- Operações matemáticas como soma, média, porcentagem, transposição e determinante de matrizes
 
-**Questão 01** - Entrar com dois valores via teclado, onde o segundo valor deverá ser maior que o primeiro. Caso contrário, solicitar novamente apenas o segundo valor.
+Todos os exercícios foram desenvolvidos em dupla e estão organizados em arquivos separados.
 
-**Questão 02** - Entrar com dez valores positivos, consistir a digitação e exibir: o maior valor, a soma dos valores e a média aritmética.
+---
 
-**Questão 03** - Entrar com N valores (N positivo e menor que 20). Exibir: maior valor, menor valor, soma, média, porcentagem de positivos e porcentagem de negativos. Perguntar se deseja nova execução (S/N).
+## 🚀 Exercícios Implementados
 
-**Questão 04** - Armazenar seis valores em uma matriz de ordem 2x3 e apresentar os valores na tela.
+| Questão | Descrição |
+| :------ | :--------- |
+| **01** | Entrar com dois valores, onde o segundo deve ser maior que o primeiro. Caso contrário, solicitar novamente apenas o segundo. |
+| **02** | Entrar com dez valores positivos, consistir a digitação e exibir: maior valor, soma e média aritmética. |
+| **03** | Entrar com N valores (N positivo e < 20). Exibir: maior, menor, soma, média, % positivos e % negativos. Perguntar se deseja nova execução (S/N). |
+| **04** | Armazenar seis valores em uma matriz 2x3 e exibi-los na tela. |
+| **05** | Armazenar seis valores em uma matriz 3x2 e exibi-los na tela. |
+| **06** | Armazenar seis nomes em uma matriz 2x3 e exibi-los na tela. |
+| **07** | Entrar com 12 valores em uma matriz 3x4. Multiplicar todos os elementos por uma constante e armazenar o resultado na própria matriz. |
+| **08** | Entrar com 12 valores em uma matriz 3x4. Multiplicar por uma constante e armazenar o resultado em *outra* matriz. Exibir ambas no formato matricial. |
+| **09** | Entrar com uma matriz de ordem MxN (máx. 10x10) e exibir sua matriz transposta. |
+| **10** | Entrar com uma matriz quadrática MxM (máx. 10) e exibir sua matriz inversa. |
+| **11** | Entrar com uma matriz quadrática MxM (máx. 10) e exibir seu determinante. |
 
-**Questão 05** - Armazenar seis valores em uma matriz de ordem 3x2 e apresentar os valores na tela.
+---
 
-**Questão 06** - Armazenar seis nomes em uma matriz de ordem 2x3 e apresentar os nomes na tela.
+## 🛠️ Tecnologias e Ferramentas
 
-**Questão 07** - Entrar com doze valores em uma matriz 3x4. Solicitar uma constante multiplicativa e multiplicar cada valor da matriz, armazenando o resultado na própria matriz.
+- **Java** (versão 8 ou superior)
+- **VS Code** com extensões:
+  - Extension Pack for Java (Microsoft)
+  - Debugger for Java
+- **Git** e **GitHub** para controle de versão
 
-**Questão 08** - Entrar com doze valores em uma matriz 3x4. Multiplicar cada valor por uma constante e armazenar o resultado em outra matriz de mesma ordem. Exibir ambas no formato matricial.
+---
 
-**Questão 09** - Entrar com uma matriz de ordem MxN (máx. 10x10) e calcular/exibir a matriz transposta.
+## ▶️ Como Executar no VS Code
 
-**Questão 10** - Entrar com uma matriz quadrática MxM (máx. 10) e calcular/exibir a matriz inversa.
-
-**Questão 11** - Entrar com uma matriz quadrática MxM (máx. 10) e calcular/exibir o determinante da matriz.
-
-## 🛠️ Tecnologias Utilizadas
-
-- Java (versão 8 ou superior)
-- IDE: IntelliJ IDEA
-- Controle de versão: Git e GitHub
-
-## ▶️ Como Executar
-
-1. Clone o repositório:
+### 1. Clone o repositório
+```bash
 git clone https://github.com/juliavvz/TP02.git
 
+2. Abra a pasta no VS Code
+bash
+code TP02
+3. Configure o VS Code para Java
+Certifique-se de ter as extensões Java instaladas
 
-2. Abra o projeto no IntelliJ IDEA
+O VS Code detectará automaticamente os arquivos .java
 
-3. Navegue até a pasta do exercício desejado dentro de `src/`
+4. Execute um programa
+Abra o arquivo desejado (ex: Questao01.java)
 
-4. Execute o arquivo `QuestaoXX.java` correspondente
+Clique no botão "Run" (▶️) no canto superior direito
+
+Ou use o atalho Ctrl+F5 (Windows/Linux) / Cmd+F5 (Mac)
+
+5. Interaja pelo terminal
+Os programas usam o terminal integrado do VS Code para entrada e saída de dados
+````
+
+## 👥 Desenvolvimento
+
+Júlia Vitória - (https://github.com/juliavvz)
+
+Lucas Antônio - (https://github.com/rapaduragames)
 
 
-## 📄 Base do Trabalho
+## 📝 Licença
 
-Este projeto foi desenvolvido com base no arquivo `CBTLPR1_TP02.pdf`, que contém as especificações completas dos exercícios.
+Projeto acadêmico - livre para estudo e modificação.

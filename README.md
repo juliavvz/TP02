@@ -66,28 +66,11 @@ Ou use o atalho Ctrl+F5 (Windows/Linux) / Cmd+F5 (Mac)
 5. Interaja pelo terminal
 Os programas usam o terminal integrado do VS Code para entrada e saída de dados
 ````
-📁 Estrutura do Projeto
-text
-TP02/
-├── src/
-│   ├── Q1.java
-│   ├── Q2.java
-│   ├── Q3.java
-│   ├── Q4.java
-│   ├── Q5.java
-│   ├── Q6.java
-│   ├── Q7.java
-│   ├── Q8.java
-│   ├── Q9.java
-│   ├── Q10.java
-│   └── Q11.java
-├── .gitignore
-├── README.md
 
 👥 Desenvolvimento
-Júlia Vitória - juliavvz
 
-Dupla: Lucas Antônio - 
+Júlia Vitória - (https://github.com/juliavvz)
+Lucas Antônio - (https://github.com/rapaduragames)
 
 
 📝 Licença

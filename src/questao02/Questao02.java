@@ -28,9 +28,11 @@ public class Questao02 {
 
         int media = soma / 10;
 
-        System.out.println("Maior número:" + maiorN);
-        System.out.println("Some:" + soma);
-        System.out.println("média:" + media);
+        System.out.println("Maior número: " + maiorN);
+        System.out.println("Some: " + soma);
+        System.out.println("média: " + media);
+
+        sc.close();
 
     }
 }
